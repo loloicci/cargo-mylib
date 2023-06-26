@@ -1,0 +1,4 @@
+[package]
+name = "cargo-mylib"
+version = "0.1.1-prerelease"
+edition = "2021"
